@@ -3483,7 +3483,7 @@ class W3DamageManagerProcessor extends CObject
 			action.AddEffectInfo( EET_KnockdownTypeApplicator, 0.1f, , , , 1.f );
 		}
 	}
-}
+
 
 exec function ForceDismember( b: bool, optional chance : int, optional n : name, optional e : bool )
 {
